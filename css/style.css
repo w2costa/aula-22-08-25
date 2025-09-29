@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    box-sizing: border-box;
+    color: #f6f6f6;
+    background-color: black;
+}
+
+.apresentacao {
+    display: flex;
+    align-items: center;
+    gap: 82px;
+    justify-content: space-between;
+    padding: 5% 15%;
+}
+
+.titulo-destaque {
+    color: #22D4FD;
+}
